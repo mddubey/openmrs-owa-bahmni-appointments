@@ -2,9 +2,7 @@
     "package": {
         "name": "openmrs-owa-bahmni-appointments",
         "repo": "owa",
-        "subject": "rrameshbtech",
-        "licenses": ["MIT"],
-        "vcs_url": "https://github.com/openmrs/openmrs-owa-bahmni-appointments"
+        "subject": "rrameshbtech"
     },
 
     "version": {
